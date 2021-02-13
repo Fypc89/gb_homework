@@ -1,0 +1,5 @@
+Ivanov 50000
+Petrov 60000
+Sidorov 15000
+Andreev 17500
+Scherbakov 35000
